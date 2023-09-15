@@ -243,7 +243,9 @@ th {
 }
 
 .w-icon-nav-menu:before {
-  content: "î˜‚";
+  font-family: 'Font Awesome 6 Free';
+  content: "\f0c9";
+  font-weight: 900;
 }
 
 .w-icon-arrow-down:before,
